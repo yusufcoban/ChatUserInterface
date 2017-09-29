@@ -1,0 +1,26 @@
+.userlist {
+	border: medium;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.messagebox {
+	border: solid;
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 10px;
+	margin: 6% 14%;
+	display:none;
+}
+
+.message {
+	max-height: 200px;
+	overflow: scroll;
+}
+
+}
+.sentmail {text-align ="right";
+	
+}
